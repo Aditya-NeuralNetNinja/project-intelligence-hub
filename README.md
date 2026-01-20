@@ -4,8 +4,8 @@ Ingest PDF project reports → Extract structured entities → Build a Neo4j kno
 
 GraphRAG pipeline combining knowledge graphs with LLM-powered retrieval for project analytics.
 
-## Hugging Face Deployment
-![Weblink](https://huggingface.co/spaces/adi-123/Project-Report-Analyzer)
+## Live Demo
+Webapp hosted on Hugging Face Spaces: [*Live Demo*](https://huggingface.co/spaces/adi-123/Project-Report-Analyzer)
 
 ## Architecture Diagram
 ![Architecture](https://github.com/Aditya-NeuralNetNinja/project-intelligence-hub/blob/main/architecture-diagram.svg)
